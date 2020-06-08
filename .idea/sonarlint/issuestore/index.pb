@@ -1,0 +1,21 @@
+
+u
+Esrc/main/java/com/github/ahmadshadab/daata/common/GeneratorUtils.java,d/e/de6f1fb72b195da7aad759f10edaba022efaf2b6
+s
+Csrc/test/java/com/github/ahmadshadab/core/BooleanGeneratorTest.java,1/6/16b98607f95f73183a7a43ee4a6e076abc67b15d
+r
+Bsrc/test/java/com/github/ahmadshadab/core/NumberGeneratorTest.java,9/9/99c8f8d23872c821e6d94037fdea7b2c025369b0
+r
+Bsrc/test/java/com/github/ahmadshadab/core/StringGeneratorTest.java,a/7/a7648ba601ce1f185ab6726308e22417e8e50725
+u
+Esrc/main/java/com/github/ahmadshadab/daata/core/BooleanGenerator.java,6/d/6d4ccb14f698540b71ce5bb0ed765410e6e1902e
+t
+Dsrc/main/java/com/github/ahmadshadab/daata/core/NumberGenerator.java,d/b/dbbfcdf4abea618634c88cf7a146070c576ffbfa
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+7
+LICENSE,0/3/0398ccd0f49298b10a3d76a47800d2ebecd49859
+t
+Dsrc/main/java/com/github/ahmadshadab/daata/core/StringGenerator.java,3/2/32c3eb01597857901c444d736aa6e775fc19b773
