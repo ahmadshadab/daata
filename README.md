@@ -1,6 +1,6 @@
-<!-- 
+
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.ahmadshadab/daata/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.github.ahmadshadab/daata)
--->
+
 A simple Java library to generate test data of type String, Number and Boolean.
 
 #### Dependency:
